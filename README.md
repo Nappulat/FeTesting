@@ -4,7 +4,7 @@
 
 docs ---> [docs](docs/) ---> Github.io- sivun sisältö
 
-[docs README](docs/README.md)
+[docs README](docs/index.md)
 
 outputs ---> [outputs](outputs/) ---> Raportit ja lokit
 
