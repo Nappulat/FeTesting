@@ -22,7 +22,7 @@ Testit ---> [tests/](tests/README.md)
 - [Sisäänkirjautuminen viikko 5](#sisäänkirjautuminen-viikko-5-päivitetty-252025-päivitetty-resurssitiedoston-nimi-ja-tunnarit)
 - [Taustapalvelimen testaus viikko 6](#taustapalvelimen-testaus-viikko-6-päivitetty-252025-päivitetty-tunnarit)
 - [Github.io](#githubio-sivun-luominen-viikko-7)
-- [Käyttötapaukset ja niiden testaus](#käyttötapaukset-ja-niitä-vastaavat-testit-viikko-7-ja-8-päivitetty-252025)
+- [Käyttötapaukset ja niiden testaus](#käyttötapaukset-ja-niitä-vastaavat-testit-viikko-7-ja-8-päivitetty-652025)
 - [Yhteenveto](#yhteenveto)
 
 ## Aikataulu
@@ -122,7 +122,7 @@ Sovelluksen testitulosten katselua varten luotiin toinen repositio, joka muutett
 
 Ongelmasta, joka johti tähän ratkaisuun, on kerrottu opettajille.
 
-## Käyttötapaukset ja niitä vastaavat testit (viikko 7 ja 8) (Päivitetty 2.5.2025)
+## Käyttötapaukset ja niitä vastaavat testit (viikko 7 ja 8) (Päivitetty 6.5.2025)
 
 Viimeiseksi dokumentaatioon on kerätty suoritetut ohjelmistotestit, joissa ollaan testattu sovelluksen kykyä täyttää vaatimusmäärittelyyn luetellut käyttötapaukset. Ensin lukijalle esitellään kaikki käyttötapaukset, joiden pohjalta testit on tehty. Tämän jälkeen esitellään kaikki suunnitellut ohjelmistotestit, niiden tavoitteet, testauksen kohde (UI tai taustapalvelin), sekä onnistumisen kriteerit.
 
