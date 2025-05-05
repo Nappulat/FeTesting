@@ -18,11 +18,11 @@ Testit ---> [tests/](tests/README.md)
 
 - #### Viikko 5: Tehty projektille sisäänkirjautumistesti. Testattu sisäänkirjautumista sekä onnistuneesti (toimiva tunnus ja salasana) ja niin, että sisäänkirjautuminen epäonnistuu (väärä tunnus ja/tai salasana) Testi 1 [Sisäänkirjautuminen (invalid)](tests/login-invalid-login.robot) Testi 2 [Sisäänkirjautuminen (valid)](tests/login-valid-login.robot)
 
-- ### Viikko 6: Projektin ensimmäiset taustapalvelimen testit [Taustapalvelin-vuorot-haku-syöttö](tests/server-test.robot)
+- #### Viikko 6: Projektin ensimmäiset taustapalvelimen testit [Taustapalvelin-vuorot-haku-syöttö](tests/server-test.robot)
 
-- ### Viikko 7: Github.io
+- #### Viikko 7: Github.io
 
-- ### Viikko 7-8: Käyttötapaukset ja niihin perustuvat testit. [Dokumentaatio](#testit)
+- #### Viikko 7-8: Käyttötapaukset ja niihin perustuvat testit. [Dokumentaatio](#testit)
 
 ## Rakenne
 
