@@ -2,14 +2,8 @@
 
 ## Kansiot ja sisältö
 
-docs ---> [docs](docs/) ---> Github.io- sivun sisältö
+docs ---> [docs](docs/) ---> Github.io- sivun sisältö, [docs README](docs/index.md)
 
-[docs README](docs/index.md)
+outputs ---> [outputs](outputs/) ---> Raportit ja lokit, [outputs README](outputs/README.md)
 
-outputs ---> [outputs](outputs/) ---> Raportit ja lokit
-
-[outputs README](outputs/README.md)
-
-tests ---> [tests](tests/) ---> Ohjelmistotestit
-
-[tests README](tests/README.md)
+tests ---> [tests](tests/) ---> Ohjelmistotestit, [tests README](tests/README.md)
