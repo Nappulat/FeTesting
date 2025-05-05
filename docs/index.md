@@ -4,7 +4,7 @@ Tässä dokumentissa on raportoitu projektiryhmän kevään 2025 suorittamat ohj
 
 Projektirepo löytyy [linkistä](https://github.com/Rocmu/Renovo_fe)
 
-Ohjelmistotestaus dokumentaatio [projektirepossa](https://github.com/Rocmu/Renovo_fe/tree/nea-frontend-cleanup/tests)
+Ohjelmistotestaus dokumentaatio [projektirepossa](https://github.com/Rocmu/Renovo_fe/tree/main/tests)
 
 Lokit ---> [log.html](log.html)
 
