@@ -27,6 +27,8 @@ Testit ---> [tests/](tests/README.md)
 
 ## Aikataulu
 
+- #### Viikko 1-3: Tutustuttu kurssimateriaaliin ja tehty projektin ohjelmistotestaukseen valmistavia yksilötehtäviä. 
+
 - #### Viikko 4: Palautettu projektin repositiori opettajalle ja suoritettu ensimmäinen (tahalleen) epäonnistunut sisäänkirjautumistesti [Testi](tests/login-server-test.robot)
 
 - #### Viikko 5: Tehty projektille kaksi sisäänkirjautumistestiä. Testattu sisäänkirjautumista, sekä onnistuneesti (toimiva tunnus ja salasana) ja niin, että sisäänkirjautuminen epäonnistuu (väärä tunnus ja/tai salasana). Testi 1 [Sisäänkirjautuminen (invalid)](tests/login-invalid-login.robot) ja Testi 2 [Sisäänkirjautuminen (valid)](tests/login-valid-login.robot)
