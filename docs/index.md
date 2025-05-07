@@ -12,7 +12,7 @@ Raportit ---> [report.html](report.html)
 
 Tulostukset ---> [output.xml](output.xml)
 
-Testit ---> [tests/](tests/README.md)
+Testit (ladattavissa) ---> [tests/](tests/README.md)
 
 ## Sisällysluettelo
 
@@ -205,4 +205,4 @@ Renovo- sovellus suoriutuu kaikista käyttötapauksista.
 
 Kaiken kaikkiaan 31 testiä, 29 onnistuu.
 
-2 epäonnistuvaa testiä ovat ensimmäisiltä viikoilta 4 ([login-server-test.robot](tests/login-server-test.robot)) ja 5 [login-invalid-login.robot](tests/login-invalid-login.robot). Nämä on jätetty epäonnistuneiksi vanhoja tehtävänantoja noudattaen.
+2 epäonnistuvaa testiä ovat ensimmäisiltä viikoilta 4 ([login-server-test.robot](tests/login-server-test.robot)) ja 5 [login-invalid-login.robot](tests/login-invalid-login.robot). Nämä on jätetty epäonnistuneiksi vanhoja tehtävänantoja.
