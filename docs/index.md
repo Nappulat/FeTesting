@@ -2,9 +2,9 @@
 
 Tässä dokumentissa on raportoitu projektiryhmän kevään 2025 suorittamat ohjelmistotestit. Ohessa lukijalle esitellään testausaikataulu, tiedostorakenne, viikoittaiset pakollliset ryhmätestit, sekä Renovo sovelluksen käyttötapauksien mukaan rakennetut testit, joilla varmistetaan sovelluksen soveltuvuus sille asetettuille vaatimuksille.
 
-Projektirepo löytyy [linkistä](https://github.com/Rocmu/Renovo_fe)
+Projektirepo löytyy [linkistä](https://github.com/Rocmu/Renovo_fe/tree/deployment)
 
-Ohjelmistotestaus dokumentaatio [projektirepossa](https://github.com/Rocmu/Renovo_fe/tree/main/tests)
+Ohjelmistotestaus dokumentaatio [projektirepossa](https://github.com/Rocmu/Renovo_fe/tree/deployment/tests)
 
 Lokit ---> [log.html](log.html)
 
